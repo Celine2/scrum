@@ -1,0 +1,35 @@
+/*section 2*/
+.section-2{
+	text-align: center;
+	background-color: rgba(0,0,0,0.8);
+	color: #fff;
+	background-image: url("../images/pizza-font.jpg");
+	background-repeat: no-repeat center fixed; opacity: 0,4
+      }
+
+list-logo. ul{
+		list-style:none;
+		display::flex;
+		justify-content: space-between;
+	  } 
+	}
+ .sectionservice h3,h3'{
+ 	color: #fff;
+ }
+
+ .sectionservice p{
+ 	color:#fff;
+ }
+ .sectionservice .chevron a{
+ 	color: #fff;
+ }
+ .listemenu a{
+ 	color:#fa4656;
+ }
+
+	
+
+
+
+
+ 
